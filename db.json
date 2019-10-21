@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "saikumar",
+      "mobileNum": "9030424073",
+      "email":"sai@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "aditya",
+      "mobileNum": "9030411112",
+      "email":"aditya@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "akram",
+      "mobileNum": "9704052522",
+      "email":"akram@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstname": "mahesh",
+      "mobileNum": "9030425412",
+      "email":"mahesh@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
